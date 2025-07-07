@@ -55,6 +55,4 @@ java ElevatorGame
 - Enhance elevator logic (e.g., priority queues, multiple elevators).
 - Include CSV or JSON import for person schedules.
 
-## 📝 License
 
-This project is for educational purposes. No license currently applied.
